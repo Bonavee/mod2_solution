@@ -70,7 +70,7 @@ h1 {
 
 /* Meduim Devive */
 
-@media (min-width: 798px) and (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 991px) {
   .col-md-6 {
   background-color: #336d88;
   width: 48%;
@@ -91,7 +91,7 @@ h1 {
 
 /* Small Devices */
 
-@media (max-width: 797px) {
+@media (max-width: 767px) {
   .col-sm-12{
     background-color: #336d88;
     width: 98%;
